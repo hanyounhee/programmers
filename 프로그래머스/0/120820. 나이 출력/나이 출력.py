@@ -1,3 +1,4 @@
 def solution(age):
-    answer = 2023 - age
+    standard = 2022
+    answer = standard - age +1
     return answer
